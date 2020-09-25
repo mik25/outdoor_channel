@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel" tvg-logo="" group-title="Dan",Outdoor Channel
+http://cdn.livebudtv.com:9487/live/Web1107$2020/tok24$2567/3709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSMAN CHANNEL" tvg-logo="" group-title="Dan",SPORTSMAN CHANNEL
+http://cdn.livebudtv.com:9487/live/Web1107$2020/tok24$2567/4454.m3u8
